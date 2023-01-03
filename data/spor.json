@@ -24,7 +24,7 @@
       "id": 16,
       "title": "Ayakkabı",
       "image":"ayakkabı.png",
-      "description": "Spor Ayakkabı<span class=\"label label-info\">2 000'Tlden</span>, but are <span class=\"label label-warning\">1000 TL'ye düştü </span>",
+      "description": "Spor Ayakkabı<span class=\"label label-info\">2 000'Tlden</span>, yerine <span class=\"label label-warning\">1000 TL'ye düştü </span>",
       "price": 1000
     }
     

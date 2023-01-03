@@ -24,7 +24,7 @@
         "id": 12,
         "title": "Diş Fırçası",
         "image":"diş.png",
-        "description": "Diş Fırçası<span class=\"label label-info\">40'Tlden</span>, but are <span class=\"label label-warning\">10 TL'ye düştü </span>",
+        "description": "Diş Fırçası<span class=\"label label-info\">40'Tlden</span>, yerine <span class=\"label label-warning\">10 TL'ye düştü </span>",
         "price": 10
       }
   ]

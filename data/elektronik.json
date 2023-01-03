@@ -24,7 +24,7 @@
       "id": 8,
       "title": "Televizyon",
       "image":"tv.png",
-      "description": "QLED Televizyonlar<span class=\"label label-info\">20 000'Tlden</span>, but are <span class=\"label label-warning\">10 000 TL'ye düştü </span>",
+      "description": "QLED Televizyonlar<span class=\"label label-info\">20 000'Tlden</span>, yerine <span class=\"label label-warning\">10 000 TL'ye düştü </span>",
       "price": 10000
     }
     

@@ -3,28 +3,28 @@
     "id": 1,
     "title": "Elma",
     "image":"elma.png",
-    "description": "Onat <span class=\"label label-info\">25 TL each</span>",
+    "description": "Onat <span class=\"label label-info\">25 TL </span>",
     "price": 25
   },
   {
     "id": 2,
     "title": "Portakal",
     "image":"oranges.png",
-    "description": "Protakal <span class=\"label label-info\">30 TL each</span>",
+    "description": "Protakal <span class=\"label label-info\">30 TL </span>",
     "price": 30
   },
   {
     "id": 3,
     "title": "Sarımsak",
     "image":"sogan.png",
-    "description": "Garlic are <span class=\"label label-info\">15 TL each</span>",
+    "description": "Garlic are <span class=\"label label-info\">15 TL </span>",
     "price": 15
   },
   {
     "id": 4,
     "title": "Papayas",
     "image":"Papaya.png",
-    "description": "Papayas are <span class=\"label label-info\">50 TL each</span>, but are <span class=\"label label-warning\">available as 3 for the price of 2</span>",
+    "description": "Papayas are <span class=\"label label-info\">50 TL </span>, but are <span class=\"label label-warning\">available as 3 for the price of 2</span>",
     "price": 100
   },
 
